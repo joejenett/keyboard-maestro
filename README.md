@@ -8,4 +8,5 @@ Copyright (c) 2021 Joe Jenett
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either <a href="https://github.com/joejenett/keyboard-maestro/blob/main/LICENSE">version 3</a> of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. see <https://www.gnu.org/licenses/#GPL>
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the <a href="https://www.gnu.org/licenses/#GPL">GNU General Public License</a> for more details.
+
