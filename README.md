@@ -6,6 +6,7 @@ for resizing and centering the frontmost window
 <h3>How I Use It</h3>
 I spend a lot of time exploring websites and have my own preference when it comes to window size. Some sites don’t fit well and I end up enlarging the window for them. The next time I want to return the window to my preferred size, I just click on the desktop, then on the window again.
 
+
 Copyright (c) 2021 Joe Jenett
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either <a href="https://github.com/joejenett/keyboard-maestro/blob/main/LICENSE">version 3</a> of the License, or (at your option) any later version.
