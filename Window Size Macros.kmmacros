@@ -346,7 +346,7 @@
 						<key>HeightExpression</key>
 						<string>300</string>
 						<key>HorizontalExpression</key>
-						<string>1200</string>
+						<string>1000</string>
 						<key>MacroActionType</key>
 						<string>ManipulateWindow</string>
 						<key>TargetApplication</key>
@@ -356,7 +356,7 @@
 						<key>TargetingType</key>
 						<string>Front</string>
 						<key>VerticalExpression</key>
-						<string>2500</string>
+						<string>1000</string>
 						<key>WidthExpression</key>
 						<string>300</string>
 						<key>WindowIndexExpression</key>
@@ -390,11 +390,11 @@
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>599004078.54572201</real>
+				<real>473369093.32224202</real>
 				<key>ModificationDate</key>
-				<real>599142096.89575005</real>
+				<real>547932057.372913</real>
 				<key>Name</key>
-				<string>9 1200x2500</string>
+				<string>1 1000x1000</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -413,100 +413,7 @@
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>C319C2EB-8473-470F-BD9E-7AC1900A7C40</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Window Size</string>
-		<key>ToggleMacroUID</key>
-		<string>41A90BD6-1A01-4FC0-A6FA-0D636A7EF69C</string>
-		<key>UID</key>
-		<string>1BCF9400-0DD6-4CCA-B406-283B6B555484</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>459289950.51074803</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ResizeWindowTo</string>
-						<key>HeightExpression</key>
-						<string>300</string>
-						<key>HorizontalExpression</key>
-						<string>1024</string>
-						<key>MacroActionType</key>
-						<string>ManipulateWindow</string>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>Targeting</key>
-						<string>FrontWindow</string>
-						<key>TargetingType</key>
-						<string>Front</string>
-						<key>VerticalExpression</key>
-						<string>768</string>
-						<key>WidthExpression</key>
-						<string>300</string>
-						<key>WindowIndexExpression</key>
-						<string>2</string>
-						<key>WindowName</key>
-						<string></string>
-					</dict>
-					<dict>
-						<key>Action</key>
-						<string>CenterWindow</string>
-						<key>HeightExpression</key>
-						<string>300</string>
-						<key>HorizontalExpression</key>
-						<string>125</string>
-						<key>MacroActionType</key>
-						<string>ManipulateWindow</string>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>Targeting</key>
-						<string>FrontWindow</string>
-						<key>TargetingType</key>
-						<string>Front</string>
-						<key>VerticalExpression</key>
-						<string>125</string>
-						<key>WidthExpression</key>
-						<string>300</string>
-						<key>WindowIndexExpression</key>
-						<string>2</string>
-						<key>WindowName</key>
-						<string></string>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>459289950.51074803</real>
-				<key>ModificationDate</key>
-				<real>547932064.40875697</real>
-				<key>Name</key>
-				<string>2 1024x768</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>StatusMenu</string>
-					</dict>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>13</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>4608</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>5E79F121-377E-4BC1-9A5E-DBD04F679EDC</string>
+				<string>7BBEB94F-4F19-42B0-8CCC-DF34C55C336A</string>
 			</dict>
 		</array>
 		<key>Name</key>
@@ -625,7 +532,7 @@
 						<key>HeightExpression</key>
 						<string>300</string>
 						<key>HorizontalExpression</key>
-						<string>1100</string>
+						<string>1032</string>
 						<key>MacroActionType</key>
 						<string>ManipulateWindow</string>
 						<key>TargetApplication</key>
@@ -635,7 +542,7 @@
 						<key>TargetingType</key>
 						<string>Front</string>
 						<key>VerticalExpression</key>
-						<string>700</string>
+						<string>812</string>
 						<key>WidthExpression</key>
 						<string>300</string>
 						<key>WindowIndexExpression</key>
@@ -671,9 +578,9 @@
 				<key>CreationDate</key>
 				<real>459289950.51074803</real>
 				<key>ModificationDate</key>
-				<real>547932076.64499104</real>
+				<real>547932070.32701099</real>
 				<key>Name</key>
-				<string>4 1100x700</string>
+				<string>3 1032x812</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -692,7 +599,56 @@
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>598137E2-585B-4F7D-B051-9BAF8A7D5890</string>
+				<string>710AEA7D-4164-40E6-B7BB-70338C91C1F7</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Window Size</string>
+		<key>ToggleMacroUID</key>
+		<string>41A90BD6-1A01-4FC0-A6FA-0D636A7EF69C</string>
+		<key>UID</key>
+		<string>1BCF9400-0DD6-4CCA-B406-283B6B555484</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>459289950.51074803</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>Toggle</string>
+						<key>MacroActionType</key>
+						<string>SetMacroEnable</string>
+						<key>MacroUID</key>
+						<string>44EF1B74-31CF-421A-9712-E5A3CEEEDAB7</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>599004734.14904797</real>
+				<key>ModificationDate</key>
+				<real>632308663.10882902</real>
+				<key>Name</key>
+				<string>11 Toggle Auto</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>13</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4608</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>8130B8FB-9450-4483-AEFE-50CE541CFA82</string>
 			</dict>
 		</array>
 		<key>Name</key>
@@ -821,6 +777,99 @@
 						<key>TargetingType</key>
 						<string>Front</string>
 						<key>VerticalExpression</key>
+						<string>2500</string>
+						<key>WidthExpression</key>
+						<string>300</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>CenterWindow</string>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>125</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>VerticalExpression</key>
+						<string>125</string>
+						<key>WidthExpression</key>
+						<string>300</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>599004078.54572201</real>
+				<key>ModificationDate</key>
+				<real>599142096.89575005</real>
+				<key>Name</key>
+				<string>9 1200x2500</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>StatusMenu</string>
+					</dict>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>13</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4608</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>C319C2EB-8473-470F-BD9E-7AC1900A7C40</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Window Size</string>
+		<key>ToggleMacroUID</key>
+		<string>41A90BD6-1A01-4FC0-A6FA-0D636A7EF69C</string>
+		<key>UID</key>
+		<string>1BCF9400-0DD6-4CCA-B406-283B6B555484</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>459289950.51074803</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ResizeWindowTo</string>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>1200</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>VerticalExpression</key>
 						<string>1200</string>
 						<key>WidthExpression</key>
 						<string>300</string>
@@ -879,148 +928,6 @@
 				</array>
 				<key>UID</key>
 				<string>4528EC6F-5AAE-4C0C-B02C-732007A6A3FB</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Window Size</string>
-		<key>ToggleMacroUID</key>
-		<string>41A90BD6-1A01-4FC0-A6FA-0D636A7EF69C</string>
-		<key>UID</key>
-		<string>1BCF9400-0DD6-4CCA-B406-283B6B555484</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>459289950.51074803</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>Toggle</string>
-						<key>MacroActionType</key>
-						<string>SetMacroEnable</string>
-						<key>MacroUID</key>
-						<string>44EF1B74-31CF-421A-9712-E5A3CEEEDAB7</string>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>599004734.14904797</real>
-				<key>ModificationDate</key>
-				<real>632308663.10882902</real>
-				<key>Name</key>
-				<string>11 Toggle Auto</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>13</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>4608</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>8130B8FB-9450-4483-AEFE-50CE541CFA82</string>
-			</dict>
-		</array>
-		<key>Name</key>
-		<string>Window Size</string>
-		<key>ToggleMacroUID</key>
-		<string>41A90BD6-1A01-4FC0-A6FA-0D636A7EF69C</string>
-		<key>UID</key>
-		<string>1BCF9400-0DD6-4CCA-B406-283B6B555484</string>
-	</dict>
-	<dict>
-		<key>Activate</key>
-		<string>Normal</string>
-		<key>CreationDate</key>
-		<real>459289950.51074803</real>
-		<key>Macros</key>
-		<array>
-			<dict>
-				<key>Actions</key>
-				<array>
-					<dict>
-						<key>Action</key>
-						<string>ResizeWindowTo</string>
-						<key>HeightExpression</key>
-						<string>300</string>
-						<key>HorizontalExpression</key>
-						<string>1032</string>
-						<key>MacroActionType</key>
-						<string>ManipulateWindow</string>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>Targeting</key>
-						<string>FrontWindow</string>
-						<key>TargetingType</key>
-						<string>Front</string>
-						<key>VerticalExpression</key>
-						<string>812</string>
-						<key>WidthExpression</key>
-						<string>300</string>
-						<key>WindowIndexExpression</key>
-						<string>2</string>
-						<key>WindowName</key>
-						<string></string>
-					</dict>
-					<dict>
-						<key>Action</key>
-						<string>CenterWindow</string>
-						<key>HeightExpression</key>
-						<string>300</string>
-						<key>HorizontalExpression</key>
-						<string>125</string>
-						<key>MacroActionType</key>
-						<string>ManipulateWindow</string>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>Targeting</key>
-						<string>FrontWindow</string>
-						<key>TargetingType</key>
-						<string>Front</string>
-						<key>VerticalExpression</key>
-						<string>125</string>
-						<key>WidthExpression</key>
-						<string>300</string>
-						<key>WindowIndexExpression</key>
-						<string>2</string>
-						<key>WindowName</key>
-						<string></string>
-					</dict>
-				</array>
-				<key>CreationDate</key>
-				<real>459289950.51074803</real>
-				<key>ModificationDate</key>
-				<real>547932070.32701099</real>
-				<key>Name</key>
-				<string>3 1032x812</string>
-				<key>Triggers</key>
-				<array>
-					<dict>
-						<key>MacroTriggerType</key>
-						<string>StatusMenu</string>
-					</dict>
-					<dict>
-						<key>FireType</key>
-						<string>Pressed</string>
-						<key>KeyCode</key>
-						<integer>13</integer>
-						<key>MacroTriggerType</key>
-						<string>HotKey</string>
-						<key>Modifiers</key>
-						<integer>4608</integer>
-					</dict>
-				</array>
-				<key>UID</key>
-				<string>710AEA7D-4164-40E6-B7BB-70338C91C1F7</string>
 			</dict>
 		</array>
 		<key>Name</key>
@@ -1149,7 +1056,7 @@
 						<key>HeightExpression</key>
 						<string>300</string>
 						<key>HorizontalExpression</key>
-						<string>1000</string>
+						<string>1100</string>
 						<key>MacroActionType</key>
 						<string>ManipulateWindow</string>
 						<key>TargetApplication</key>
@@ -1159,7 +1066,7 @@
 						<key>TargetingType</key>
 						<string>Front</string>
 						<key>VerticalExpression</key>
-						<string>1000</string>
+						<string>700</string>
 						<key>WidthExpression</key>
 						<string>300</string>
 						<key>WindowIndexExpression</key>
@@ -1193,11 +1100,11 @@
 					</dict>
 				</array>
 				<key>CreationDate</key>
-				<real>473369093.32224202</real>
+				<real>459289950.51074803</real>
 				<key>ModificationDate</key>
-				<real>547932057.372913</real>
+				<real>547932076.64499104</real>
 				<key>Name</key>
-				<string>1 1000x1000</string>
+				<string>4 1100x700</string>
 				<key>Triggers</key>
 				<array>
 					<dict>
@@ -1216,7 +1123,100 @@
 					</dict>
 				</array>
 				<key>UID</key>
-				<string>7BBEB94F-4F19-42B0-8CCC-DF34C55C336A</string>
+				<string>598137E2-585B-4F7D-B051-9BAF8A7D5890</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Window Size</string>
+		<key>ToggleMacroUID</key>
+		<string>41A90BD6-1A01-4FC0-A6FA-0D636A7EF69C</string>
+		<key>UID</key>
+		<string>1BCF9400-0DD6-4CCA-B406-283B6B555484</string>
+	</dict>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>459289950.51074803</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Action</key>
+						<string>ResizeWindowTo</string>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>1024</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>VerticalExpression</key>
+						<string>768</string>
+						<key>WidthExpression</key>
+						<string>300</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>CenterWindow</string>
+						<key>HeightExpression</key>
+						<string>300</string>
+						<key>HorizontalExpression</key>
+						<string>125</string>
+						<key>MacroActionType</key>
+						<string>ManipulateWindow</string>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>Targeting</key>
+						<string>FrontWindow</string>
+						<key>TargetingType</key>
+						<string>Front</string>
+						<key>VerticalExpression</key>
+						<string>125</string>
+						<key>WidthExpression</key>
+						<string>300</string>
+						<key>WindowIndexExpression</key>
+						<string>2</string>
+						<key>WindowName</key>
+						<string></string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>459289950.51074803</real>
+				<key>ModificationDate</key>
+				<real>547932064.40875697</real>
+				<key>Name</key>
+				<string>2 1024x768</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>StatusMenu</string>
+					</dict>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>13</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4608</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>5E79F121-377E-4BC1-9A5E-DBD04F679EDC</string>
 			</dict>
 		</array>
 		<key>Name</key>
