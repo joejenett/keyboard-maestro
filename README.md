@@ -1,10 +1,11 @@
 # keyboard-maestro
 ## Window Size Macros
 for resizing and centering the frontmost window  
-  
-Window Size Macros is a set of macros for specifying the size of an active app’s frontmost window and centering it on the desktop. Also included is a macro for automatically resizing and recentering a changed window for an open app upon returning to that app from a different app - this macro allows you to define one or more apps it applies to. Be sure to modify the list of apps to your own needs before using. There’s also a macro for toggling the ‘automatic’ macro.
-### How I Use It  
-I spend a lot of time exploring websites and have my own preference when it comes to window size. Some sites don’t fit well and I end up enlarging the window for them. The next time I want to return the window to my preferred size, I just click on the desktop, then on the window again.  
+
+Window Size Macros is a set of macros for specifying the size of an active app’s frontmost window and centering it on the desktop. Also included is a macro for automatically resizing and recentering a changed window upon returning to that app from a different app. You can define one or more apps it applies to. Be sure to modify the list of apps to your own needs before using. There’s also a macro for toggling automatic resizing and recentering.
+### How I Use It
+
+I spend a lot of time exploring websites and have my own preference when it comes to window size. Some sites don’t fit well and I end up enlarging the browser window to view them. The next time I reactivate my browser after having switched to a different app (typically my feed reader), its window will resize and recenter. Or if I'm still using the browser, I can click on the desktop (Finder), and then on the browser window again to resize and recenter it.   
 
 Copyright (c) 2021 Joe Jenett  
 
